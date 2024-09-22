@@ -1,6 +1,6 @@
 # Veritas University - Software Engineering Lab
 
-Welcome to **Veritas University, Software Engineering Lab** GitHub Enterprise account. This repository serves as the central hub for all lab-related projects, research initiatives, and collaborations. Below, you will find general guidelines, organizational structure, and documentation for managing and contributing to our projects.
+Welcome to **Veritas University, Software Engineering Lab** GitHub Organisational repository. This repository serves as the central hub for all lab-related projects, research initiatives, and collaborations. Below, you will find general guidelines, organizational structure, and documentation for managing and contributing to our projects.
 
 ---
 
