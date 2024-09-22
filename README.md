@@ -104,10 +104,10 @@ Please ensure that all contributions comply with the terms of the project's lice
 
 For any inquiries or issues regarding this GitHub Enterprise organization, please contact:
 
-- **Lab Director**: Dr. Jane Doe  
-  Email: janedoe@veritas.edu
-- **GitHub Administrator**: John Smith  
-  Email: johnsmith@veritas.edu
+- **Lab Director**: Dr. Emmie 
+  Email: senrepo001@gmail.com
+- **GitHub Administrator**: Mr. Tio 
+  Email: senrepo001@gmail.com
 
 ---
 
